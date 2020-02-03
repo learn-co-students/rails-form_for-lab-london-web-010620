@@ -1,0 +1,15 @@
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.6.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200203-29549-3l6s50.rb extconf.rb
+creating Makefile
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20200203-29549-9es3rb
