@@ -1,0 +1,13 @@
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.6.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200203-29549-1bfpd7.rb extconf.rb
+creating Makefile
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/wojciech/rails-form_for-lab-london-web-010620/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
